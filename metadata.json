@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Copy of Aggarha - Rental Platform",
+  "description": "A modern web application for renting various items like electronics, clothing, and cars. It features a streamlined booking process with ID verification and supports both Arabic and English.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
